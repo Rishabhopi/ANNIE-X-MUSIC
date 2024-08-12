@@ -28,16 +28,15 @@ from config import BANNED_USERS, AYUV
 from strings import get_string
 
 ANNIE_VID = [
-    "https://telegra.ph/file/9b7e1b820c72a14d90be7.mp4",
-    "https://telegra.ph/file/a4d90b0cb759b67d68644.mp4",
-    "https://telegra.ph/file/72f349b1386d6d9374a38.mp4",
-    "https://telegra.ph/file/2b75449612172a96d4599.mp4",
-    "https://telegra.ph/file/b3ac2d77205d5ded860de.mp4",
-    "https://telegra.ph/file/58ae4ac86ef70dc8c8f6a.mp4",
-    "https://telegra.ph/file/c6c1ac9aee4192a8a3747.mp4",
-    "https://telegra.ph/file/55c840c8eba0555318f0d.mp4",
-    "https://telegra.ph/file/e97715885d0a0cfbddaaa.mp4",
-    "https://telegra.ph/file/943bb99829ec526c3f99a.mp4"
+    "https://graph.org/file/2a7f857f31b32766ac6fc.mp4",
+    "https://graph.org/file/7c1aa59649fbf3ab422da.mp4",
+    "https://graph.org/file/318eac81e3d4667edcb77.mp4",
+
+"https://graph.org/file/82fd67aa56eb1b299e08d.mp4",
+
+"https://graph.org/file/83ebf52e8bbf138620de7.mp4",
+
+"https://graph.org/file/ba7699c28dab379b518ca.mp4"
 ]
 
 STICKERS = [
