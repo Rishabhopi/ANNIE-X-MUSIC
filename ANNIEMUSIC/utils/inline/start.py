@@ -25,7 +25,7 @@ def private_panel(_):
             )
         ],
         [
-            InlineKeyboardButton(text=_["S_B_14"], user_id=config.SUPPORT_CHANNEL),
+            InlineKeyboardButton(text=_["S_B_14"], url=config.SUPPORT_CHANNEL),
             InlineKeyboardButton(text=_["S_B_6"], url=config.SUPPORT_CHAT),
         ],
         [
